@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "804751534815",
+    "firebase_url": "https://covid-19-45456.firebaseio.com",
+    "project_id": "covid-19-45456",
+    "storage_bucket": "covid-19-45456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804751534815:android:1a99fdf52cd95cde96976a",
+        "android_client_info": {
+          "package_name": "com.adamfox.covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804751534815-t7mvedb6hinkouatdgihqctit3moa6oh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adamfox.covid19",
+            "certificate_hash": "13a9499231d13de2fb206993e1a45865051cea5e"
+          }
+        },
+        {
+          "client_id": "804751534815-3tncgte8thbevsbkst9j9tkosp2k2e4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS88tQR0RgKME6h2FEO1MljiibQes4jZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804751534815-3tncgte8thbevsbkst9j9tkosp2k2e4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804751534815-3mrblmfh970smmfbb82mqck54mvlohbc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adamfox.covid19"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
